@@ -82,7 +82,7 @@ Things is missed in creating the api.
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vwU7efuJxdNucyFryTiHK-CO6EbQJKhkxiLnC0ZDUg&s" alt="laravel" width="80" height="40"/>
 </a>
-<a href="https://knex.org" target="_blank" rel="noreferrer">
+<a href="https://knexjs.org" target="_blank" rel="noreferrer">
   <img src="https://knexjs.org/knex-logo.png" alt="knex" width="40" height="40"/>
 </a>
 
