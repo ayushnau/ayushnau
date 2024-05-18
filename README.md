@@ -76,6 +76,9 @@ Things is missed in creating the api.
 <a href="https://laravel.com/" target="_blank" rel="noreferrer">
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcR3vwU7efuJxdNucyFryTiHK-CO6EbQJKhkxiLnC0ZDUg&s" alt="laravel" width="80" height="40"/>
 </a>
+<a href="https://knex.org" target="_blank" rel="noreferrer">
+  <img src="https://knexjs.org/knex-logo.png" alt="knex" width="40" height="40"/>
+</a>
 
   </a>
 </p>
@@ -102,7 +105,10 @@ Things is missed in creating the api.
   <img src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQ-EEMSWKJSlG5u-YVnAYAJtooBoc4pmKiBVA&s" alt="S3" width="40" height="40"/>
 </a>
 
-  </a>
+<a href="https://turbo.build" target="_blank" rel="noreferrer">
+  <img src="https://turbo.build/images/docs/repo/repo-hero-logo-dark.svg" alt="TurboRepo" width="40" height="40"/>
+</a>
+
 </p>
 
 **Extras:**
