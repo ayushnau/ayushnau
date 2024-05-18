@@ -121,7 +121,7 @@ Things is missed in creating the api.
 
 <p align="left">
  
-  <a href="https://typesense.org/docs/" target="_blank" rel="noreferrer">
+  <a href="https://typesense.org/" target="_blank" rel="noreferrer">
     <img src="https://media.licdn.com/dms/image/C560BAQFjzWYkOWl0tQ/company-logo_200_200/0/1630640382312/typesense_logo?e=2147483647&v=beta&t=UMJQ_4mI5NbBpxrpyubqAiSQDNft6OFtK0s2xQopRkA" alt="typesense" width="40" height="40"/>
   </a>
   <a href="https://www.figma.com/" target="_blank" rel="noreferrer">
