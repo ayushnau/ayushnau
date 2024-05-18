@@ -28,6 +28,12 @@ Things is missed in creating the api.
 - 📫 How to reach me **ayushnautiyaldevelopr@gmail.com**
 
 <h3 align="left">Connect with me:</h3>
+<p align="left">
+<a href="https://twitter.com/Aviculla11" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="@abhisaraswat12" height="30" width="40" /></a>
+<a href="https://linkedin.com/in/ayush-nautiyal-947266177" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="abhisheksaraswatt" height="30" width="40" /></a>
+</p>
+
+<h3 align="left">Language and Tools</h3>
 
 **Frontend:**
 
