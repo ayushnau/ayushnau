@@ -21,7 +21,7 @@ Things is missed in creating the api.
 
 <p align="left"> <a href="https://x.com/Avicula11" target="blank"><img src="https://img.shields.io/twitter/follow/Avicula11?logo=twitter&style=for-the-badge" alt="Avicula11" /></a> </p>
 
-- 🔭 I’m currently working on **In house chatting app in vscode called Manthan.**
+- 🔭 I’m currently working on **In house chatting Extension in vscode called Manthan.**
 
 - 💬 Ask me about **Web-Development,Data Structures**
 
